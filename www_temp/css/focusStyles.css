@@ -1,0 +1,21 @@
+.notifTitle
+{
+font-weight:bolder;
+}
+
+.notifMessage
+{
+color:grey;
+font-weight:lighter; 
+font-style:italic;
+}
+.notifBody
+{
+font-weight:lighter;
+}
+
+#logo
+{
+background:url(../images/logo.png) no-repeat center center;
+height:40px;
+}
